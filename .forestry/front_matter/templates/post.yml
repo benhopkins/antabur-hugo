@@ -1,4 +1,6 @@
 ---
+pages:
+- suset_kampret.html
 hide_body: false
 fields:
 - name: title
